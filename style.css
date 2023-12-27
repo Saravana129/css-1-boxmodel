@@ -1,0 +1,24 @@
+.business-box-model {
+    border: none;
+    width: 500px;
+    padding: 100px 50px 130px;
+    margin: 30px auto;
+    background-color: rgb(27,229,146);
+    border-radius: 10px;
+    font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;;
+}
+.business-dev{
+    font-size: 40px;
+    font-weight: bold;
+    margin: unset;
+}
+
+.ideas-btn{
+    margin-top: 10px;
+    border: none;
+    border-radius: 100px;
+    padding: 12px;
+    width: 260px;
+    font-weight: bolder;
+    font-size: 20px;
+}
